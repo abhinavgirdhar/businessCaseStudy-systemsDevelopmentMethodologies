@@ -1,0 +1,60 @@
+Case Study
+
+Northern Ontario Recreational Vehicle Storage Management System
+
+Introduction
+
+Northern Ontario Recreational Vehicle Storage (NORVS) specializes in supply of local storage as a convenient and safe alternative to pulling a trailer up and down the highways, and a seasonal storage facility to protect valuable items from the elements in the off season. The type of vehicles that they store are snowmobiles, All Terrain Vehicles (ATVs), boats, Recreational Vehicles (RVs) and camper trailers (see examples at the end of this document). 
+The type of customers that use this service are people who own such vehicles for seasonal activities and need somewhere to store then during the off season.
+Your responsibility will be to take the information in the Business Summary section and create the deliverable documentation.
+
+Business Summary
+Existing System
+
+NORVS current system is completely manual. If a customer needs to store something at the facility, they call in and either the owner, or an employee will take down details for the client’s desired storage on their intake form. When the customer arrives to drop off their vehicle(s), an employee must be available to meet them in order to permit access to the secured site. The customer makes payment at this time if they did not leave a credit card number when the booking was initially arranged. Vehicle pickups follow the same process since the site is not manned on a full-time basis. 
+
+The storage facility consists of indoor and outdoor space. Storage spaces have been configured in the following sizes to accommodate the most common vehicles.
+
+•	10 X 20 feet
+•	10 X 10 feet
+•	10 X 5 feet
+
+To meet larger requirements, individual spaces are combined to suit the needs of the specific vehicle. Each space has an ID which locates it on the property for both internal and external locations. Space allocations by client are maintained on a large magnetic whiteboard layout of the property. Red magnetized cards are placed in occupied spaces with the client’s name written on them. This allows staff to keep track of space utilization, however, it is not always up to date. Vehicles are often relocated to either consolidate space or improve access and the changes are not always made to the whiteboard. New vehicle arrivals are frequently not listed on the board. When discovered, it requires an extensive amount of work to bring the whiteboard up to date.
+
+This issue has caused some embarrassments to the owners as they have committed space to new clients based on the whiteboard information only to discover that spaces have already been filled.
+
+The owners also find it difficult to compile monthly reports of revenues and to follow up with their clients for future repeat bookings. Contact information is misplaced or not correctly captured during the initial contact. Other storage facilities are now moving into the area offering competition and in order to compete and grow their business they must upgrade their system.
+
+Proposed New System
+
+The owners have decided to implement a new internet-based system. This system will provide the required functionality to support both desktop/laptop and mobile phone access using the internet.
+
+One of the main features of the new system will be an integrated storage space management component that tracks space availability based on “reservation commitments” and “contracted commitments”. When spaces are vacated, reservations cancelled or converted to a contract, the system will be automatically updated to ensure space availability status for new client enquiries. There will also be an administrative function built into the storage space management component to allow the owner and employees to adjust the spaces should they decide to move vehicles from one spot to another for convenience. The administrator will also be permitted to add, drop, and merge spaces depending on needs. This administrative feature would only be available to management.
+
+When clients complete a reservation request, they must supply all their contact information along with specific details of the vehicle(s) to be stored. This will include make, model, color, year of manufacture of the vehicle and approximate value. A photo image would also be uploaded, attached to the application. In addition, the width, height and length of the vehicle(s) will also be required to confirm storage space needs. Finally, indoor or outdoor storage will be specified on the client request. When the request is approved it then becomes the Rental Agreement. If the request is denied, it is deleted. 
+ 
+In order to permit clients 7X24X365 access to the site, the owners would like to install a biometric security gate. Clients would be able to drive up to the gate and scan their finger print or eyes (iris recognition) and activate the gate to allow them to enter and leave the storage facility at their convenience. This would also allow management to have a log of exactly who entered and exited the facility, and at what time. The initial biometric registration would take place after the reservation has been confirmed. i.e., payment has been received. 
+
+The new system will directly interface to a third-party credit card authorization service, such as PayPal, to handle all payment transactions.
+
+The system will also provide monthly statements in hard or soft copy depending on client preferences. This preference will be identified in the client registration process and can be modified at any time by the client through the client profile management component which would be secured by username and password authentication. Client profile management will allow clients to access and change their contact information at any time.
+
+Finally, the owners would like to have a built-in management reporting feature as part of the system which would allow them to track all business activity including;
+•	monthly revenues
+•	entry and exit times and profiles of who activated the gate when
+•	comparisons with previous months’ revenues
+•	monthly reservation bookings and cancellations
+•	contract completions
+•	pending contract renewals
+•	space availability
+•	Etc.,
+ 
+Examples of the various types of vehicles stored by NORVS -
+
+• Recreational Vehicle
+• Boats and Trailers
+• All-Terrain Vehicles (ATVs)
+• Snowmobiles
+• Camper Trailers 
+
+
